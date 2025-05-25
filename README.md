@@ -5,8 +5,8 @@ This repository contains my participation for the **Annam AI Hackathon** Soil Cl
 ## Files
 
 The code files (Jupyter notebooks) for both challenges are included in this repository:
-- Challenge 1: `soil_classification_challenge_1.ipynb`
-- Challenge 2: `soil_classification_challenge_2.ipynb`
+- Challenge 1: `Analyzing_Soil.ipynb`
+- Challenge 2: `Analysing_Soil_2.ipynb`
 
 ## How to Replicate
 
